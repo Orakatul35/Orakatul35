@@ -26,7 +26,7 @@ I’m a results-driven **Full Stack Web Developer** focused on building performa
 
 ## 🌐 Connect
 <p align="center">
-  <a href="git remote add origin https://github.com/Orakatul35/trustnest-server-side.git" target="_blank">
+  <a href="https://www.linkedin.com/in/orakatul-zannath-41569b366/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
