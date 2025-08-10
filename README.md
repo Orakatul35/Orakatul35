@@ -26,12 +26,8 @@ I’m a results-driven **Full Stack Web Developer** focused on building performa
 
 ## 🌐 Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/monir-mohammed-nayem-b17915169/" target="_blank">
+  <a href="git remote add origin https://github.com/Orakatul35/trustnest-server-side.git" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/monirmdnayemsaju42" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="36" alt="Facebook"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:orakajannath658@gmail.com" target="_blank">
