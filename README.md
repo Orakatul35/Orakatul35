@@ -19,7 +19,7 @@ I’m a results-driven **Full Stack Web Developer** focused on building performa
 - 🌱 **Learning:** Next.js, Express.js, JWT  
 - 👯 **Open to collaborate on:** [Doctor Appointment System](https://b11-a8-cat1.netlify.app/)  
 - 💬 **Ask me about:** React, Node.js, Tailwind CSS, MongoDB, Firebase  
-- 📫 **Email:** monirmdnayemsaju42@gmail.com  
+- 📫 **Email:** orakajannat658@gmail.com  
 - 🌍 **Location:** Sylhet, Bangladesh
 
 ---
@@ -34,7 +34,7 @@ I’m a results-driven **Full Stack Web Developer** focused on building performa
     <img src="https://skillicons.dev/icons?i=facebook" height="36" alt="Facebook"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:monirmdnayemsaju42@gmail.com" target="_blank">
+  <a href="mailto:orakajannath658@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="36" alt="Email"/>
   </a>
   &nbsp;&nbsp;
@@ -82,17 +82,17 @@ I’m a results-driven **Full Stack Web Developer** focused on building performa
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=monirmohammed1995&theme=onedark&no-frame=true&margin-w=10" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Orakatul35&theme=onedark&no-frame=true&margin-w=10" alt="Trophies"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=monirmohammed1995&show_icons=true&theme=dark&hide_border=true" height="140" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Orakatul35&show_icons=true&theme=dark&hide_border=true" height="140" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monirmohammed1995&layout=compact&theme=dark&hide_border=true" height="140" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orakatul35&layout=compact&theme=dark&hide_border=true" height="140" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monirmohammed1995&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Orakatul35theme=dark&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
