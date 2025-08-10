@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/MonirMohammed1995/MonirMohammed1995/blob/main/git.png" alt="Monir Mohammed Nayem Banner" width="100%" />
+  <img src="https://github.com/Orakatul35/Orakatul35/blob/main/Black%20and%20Teal%20Modern%20Web%20Developer%20Presentation.jpg" alt="Monir Mohammed Nayem Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Orakatul Zannath Mim</h1>
